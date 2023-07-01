@@ -23,6 +23,8 @@ If you wish to run the tutorial, you can use the following command after install
 docker run -d -p 80:80 docker/getting-started
 ```
 
+![Image](/app/SS/APP.png)
+
 Once it has started, you can open your browser to [http://localhost](http://localhost).
 
 ## Development
